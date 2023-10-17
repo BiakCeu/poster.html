@@ -1,0 +1,16 @@
+body{
+    background-color: #ebacbc;
+}
+.poster{
+    background-color: #fff8dc;
+    border: 6px solid white;
+    width: 17%;
+    margin-left: 40%;
+    margin-top: 10%;
+    box-shadow: 5px 10px 20px 0px rgba(0,0,0,0.65);;
+    font-family: 'Pixelify Sans', sans-serif;
+    text-align: center;
+}
+#img{
+    width: 100%;
+}
